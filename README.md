@@ -4,7 +4,7 @@ chethanrraj90/chethanrraj90 is a ✨ special ✨ repository because its `README.
 You can click the Preview link to take a look at your changes.
 --->
 
-![Harshal Goyal](https://github.com/HarshalGoyal/HarshalGoyal/blob/main/Hello%20!!%20I%20am%20Harshal%20Goyal.-1.jpg)
+![Harshal Goyal](https://github.com/HarshalGoyal/arshalGoyal/blob/main/Hello%20!!%20I%20am%20Harshal%20Goyal.-1.jpg)
 <!--
 **HarshalGoyal/HarshalGoyal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
