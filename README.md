@@ -4,7 +4,7 @@ chethanrraj90/chethanrraj90 is a ✨ special ✨ repository because its `README.
 You can click the Preview link to take a look at your changes.
 --->
 
-![Harshal Goyal](https://github.com/HarshalGoyal/arshalGoyal/blob/main/Hello%20!!%20I%20am%20Harshal%20Goyal.-1.jpg)
+![Chethan R](https://github.com/HarshalGoyal/arshalGoyal/blob/main/Hello%20!!%20I%20am%20Harshal%20Goyal.-1.jpg)
 
 ### Hi there 👋![My Awesome readme](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)
 
