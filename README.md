@@ -16,7 +16,7 @@ You can click the Preview link to take a look at your changes.
 [![linkedin Link](https://img.shields.io/badge/LinkedIn/Harshal%20-%23E4405F.svg?&style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/chethan-r-439325192)
 
 - 🌱 I’m currently learning about the Natural Language Processing.
-- 📫 How to reach me: [click on me!](mailto:goyalharshal916@gmail.com)
+- 📫 How to reach me: [click on me!](mailto:chethanrraj90@gmail.com)
 - ⚡ Fun fact: I am a person who wants to know about everything!
 
 
