@@ -52,7 +52,7 @@ You can click the preview link to take a look at your changes.
  My portfolio page .  [View it here](http://bit.ly/Chethan_R-mywebsite)
  
  
-![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=chethanrraj90&repo=Land-Registry-Application&theme=radical)
+![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=chethanrraj90&repo=Blockchain-Property-registration&theme=radical)
 ![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=chethanrraj90&repo=Django_Covid19_Awareness&theme=material-palenight)
 
 <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
