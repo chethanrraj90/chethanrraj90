@@ -49,7 +49,7 @@ You can click the Preview link to take a look at your changes.
 ![trophy](https://github-profile-trophy.vercel.app/?username=HarshalGoyal&theme=onedark)
 
 
- My portfolio page .  [View it here](https://harshalgoyal.github.io/Mywebsite/)
+ My portfolio page .  [View it here](http://bit.ly/Chethan_R-mywebsite)
  
  
 ![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=HarshalGoyal&repo=Image-Plagiarism-Recognizer&theme=radical)
