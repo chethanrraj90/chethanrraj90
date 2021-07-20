@@ -46,7 +46,7 @@ You can click the Preview link to take a look at your changes.
 [![Tensorflow](https://img.shields.io/badge/-Tensorflow-366CE5?style=flat-square&logo=Tensorflow&logoColor=ffffff)](https://tensorflow.org/)
 
 
-![trophy](https://github-profile-trophy.vercel.app/?username=HarshalGoyal&theme=onedark)
+![trophy](https://github-profile-trophy.vercel.app/?username=chethanrraj90&theme=onedark)
 
 
  My portfolio page .  [View it here](http://bit.ly/Chethan_R-mywebsite)
