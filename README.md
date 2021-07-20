@@ -24,7 +24,7 @@ You can click the Preview link to take a look at your changes.
 
 
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HarshalGoyal&bg_color=00000000&theme=synthwave)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chethanrraj90&bg_color=00000000&theme=synthwave)
 
 
 ### Skills
@@ -52,9 +52,9 @@ You can click the Preview link to take a look at your changes.
  My portfolio page .  [View it here](http://bit.ly/Chethan_R-mywebsite)
  
  
-![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=HarshalGoyal&repo=Image-Plagiarism-Recognizer&theme=radical)
-![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=HarshalGoyal&repo=COVID-19-Detection-using-X-ray&theme=material-palenight)
+![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=chethanrraj90&repo=Image-Plagiarism-Recognizer&theme=radical)
+![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=chethanrraj90&repo=COVID-19-Detection-using-X-ray&theme=material-palenight)
 
 <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=HarshalGoyal&theme=dark"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=chethanrraj90&theme=dark"/>
 </a>
