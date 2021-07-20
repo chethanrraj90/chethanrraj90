@@ -53,7 +53,7 @@ You can click the Preview link to take a look at your changes.
  
  
 ![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=chethanrraj90&repo=Land-Registry-Application&theme=radical)
-![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=chethanrraj90&repo=COVID-19-Detection-using-X-ray&theme=material-palenight)
+![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=chethanrraj90&repo=Django_Covid19_Awareness&theme=material-palenight)
 
 <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=chethanrraj90&theme=dark"/>
