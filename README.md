@@ -4,7 +4,6 @@ chethanrraj90/chethanrraj90 is a ✨ special ✨ repository because its `README.
 You can click the preview link to take a look at your changes.
 --->
 
-<marquee>![Chethan R](Mypic.bio.jg)</marquee>
 
 ### Hi there 👋![My Awesome readme](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)
 
