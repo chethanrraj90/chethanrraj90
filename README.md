@@ -7,7 +7,7 @@ You can click the preview link to take a look at your changes.
 
 ### Hi there 👋![My Awesome readme](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)
 
-#### I am Chethan. A Machine Learning and Deep Learing enthusiast. 
+#### I am Chethan.
 
 [![Instagram Link](https://img.shields.io/badge/Instagram/Chethan%20-%23E4405F.svg?&style=flat&logo=Instagram&logoColor=white)](https://instagram.com/r_chethan._.25?igshid=1i9exlswyw0an)
 [![Twitter Link](https://img.shields.io/badge/Twitter/Chethan%20-%23E4405F.svg?&style=flat&logo=Twitter&logoColor=white)](https://mobile.twitter.com/chethan25420818)
