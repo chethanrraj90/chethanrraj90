@@ -17,20 +17,6 @@ You can click the preview link to take a look at your changes.
 - 📫 How to reach me: [click on me!](mailto:chethanrraj90@gmail.com)
 - ⚡ Fun fact: I am a person who wants to know about everything!
 
-
-
-![Chethan's github stats](https://github-readme-stats.vercel.app/api?username=chethanrraj90&count_private=true&show_icons=true&theme=tokyonight&bg_color=00000000)
-
-
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chethanrraj90&bg_color=00000000&theme=synthwave)
-
-
-
-
-![trophy](https://github-profile-trophy.vercel.app/?username=chethanrraj90&theme=onedark)
-
-
  My portfolio page .  [View it here](http://bit.ly/Chethan_R-mywebsite)
  
  
