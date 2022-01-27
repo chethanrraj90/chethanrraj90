@@ -17,7 +17,7 @@ You can click the preview link to take a look at your changes.
 - 📫 How to reach me: [click on me!](mailto:chethanrraj90@gmail.com)
 - ⚡ Fun fact: I am a person who wants to know about everything!
 
- My portfolio page .  [View it here](http://bit.ly/Chethan_R-mywebsite)
+ My portfolio page .  [View it here]()
  
  
 ![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=chethanrraj90&repo=Land-Registry&theme=radical)
