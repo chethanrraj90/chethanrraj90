@@ -16,11 +16,8 @@ You can click the preview link to take a look at your changes.
 - 🌱 I’m currently learning about the Blockchain Technology.
 - 📫 How to reach me: [click here!](mailto:chethanrraj90@gmail.com)
 
- My portfolio page .  [View it here](https://bit.ly/Chethan_R-MyResume)
+ My portfolio page.  [Click here to View](https://bit.ly/Chethan_R-MyResume)
  
- 
-![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=chethanrraj90&repo=Land-Registry&theme=radical)
-
 <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=chethanrraj90&theme=dark"/>
 </a>
